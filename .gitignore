@@ -1,0 +1,4 @@
+pa_calculator/__pycache__/
+staticfiles/
+calculator/__pycache__/
+calculator/migrations/
